@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://imgur.com/a/7Oogts8"](https://imgur.com/7AwXfd2)/>
+<img src="https://i.imgur.com/7AwXfd2.jpg" alt="Profile Image"/>
