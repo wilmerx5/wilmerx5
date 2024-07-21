@@ -1,4 +1,4 @@
-<h2 style="text-align:center">Hi there, i'm WIL 👋</h2>
+<h2 style="text-align:center;">Hi there 👋</h2>
 
 <!--
 **wilmerx5/wilmerx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
