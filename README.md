@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[[https://i.imgur.com/7AwXfd2.jpg](https://imgur.com/PqnJiJB](https://i.imgur.com/PqnJiJB.png)](https://imgur.com/PqnJiJB)" alt="Profile Image"/>
+<img src="https://i.imgur.com/PqnJiJB.png" alt="Profile Image"/>
 
 🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
 
