@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/PqnJiJB.png" alt="Profile Image"/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,nextjs)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=express,spring)](https://skillicons.dev)
 
 🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
 
