@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,nextjs,pinia,tailwind)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=express,spring,mysql,maven,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,spring,mysql,maven,java,php)](https://skillicons.dev)
 
 🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
 
