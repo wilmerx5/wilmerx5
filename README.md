@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://i.imgur.com/PqnJiJB.png" alt="Profile Image"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2BDEFF&background=FFE65300&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
 
 
