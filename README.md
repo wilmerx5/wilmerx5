@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,nextjs)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=pinia,redux,tailwind,jquery,vite)](https://skillicons.dev)
 
 
