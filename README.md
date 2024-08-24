@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/PqnJiJB.png" alt="Profile Image"/>
 
 
-<hr>
+
+<hr/>
+
+<h2 align="center">Front end Skills⭐ </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,pinia,redux,tailwind,jquery,vite)](https://skillicons.dev)
