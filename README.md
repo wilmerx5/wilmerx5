@@ -23,14 +23,21 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2 align="center">Front end Skills⭐ </h2>
+<h3>FRONT-END SKILLS⭐ </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,pinia,redux,tailwind,jquery,vite)](https://skillicons.dev)
 
 
+<hr/>
+<h3>BACK-END SKILLS⭐ </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=express,spring,mysql,mongodb,maven,java,php)](https://skillicons.dev)
+
+<hr/>
+
+<h3>TOOLS⭐ </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode)](https://skillicons.dev)
 
