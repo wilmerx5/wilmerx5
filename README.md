@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3>TOOLS⭐ </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode,jenkins)](https://skillicons.dev)
 
 🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
 
