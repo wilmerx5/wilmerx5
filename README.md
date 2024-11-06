@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0015F7&center=true&vCenter=true&width=435&lines=Full+stack+developer;Software+Engineer;Eager+to+learn+and+grow" alt="Typing SVG" /></a>
+
 <img src="https://i.imgur.com/PqnJiJB.png" alt="Profile Image"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0015F7&center=true&vCenter=true&width=435&lines=Full+stack+developer;Software+Engineer;Eager+to+learn+and+grow" alt="Typing SVG" /></a>
 
 
 
