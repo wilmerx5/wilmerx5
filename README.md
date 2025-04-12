@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode,jenkins)](https://skillicons.dev)
 
-🔭 I’m currently working on: Exploring the world of tech through personal projects! I'm diving into exciting technologies like Next.js, Spring Boot, AWS, and more. Who needs a traditional job when you have endless possibilities in coding adventures? 🚀
+🔭 I’m currently working as a Web Developer — building awesome digital experiences for real-world clients! I'm actively working with technologies like Next.js, WordPress, and AWS, delivering both frontend and backend solutions that make a difference.
 
+🌱 Always learning: While gaining hands-on experience in production environments, I continue to expand my knowledge in modern JavaScript frameworks, cloud infrastructure, and full-stack development. Staying curious and up-to-date with industry trends is part of my daily routine.
 
-
-🌱 I’m currently learning advanced JavaScript frameworks like Next.js, backend development with Spring Boot, and cloud services with AWS. Continuously expanding my knowledge to stay updated with the latest industry trends and best practices.
-
+🚀 Passionate about tech and problem-solving, I enjoy turning complex challenges into elegant, scalable, and user-friendly web solutions.
