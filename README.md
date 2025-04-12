@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=pinia,redux,tailwind,jquery,vite)](#)
+[![My Skills](https://skillicons.dev/icons?i=pinia,redux,tailwind,jquery,vite,wordpress)](#)
 
 
 <hr/>
