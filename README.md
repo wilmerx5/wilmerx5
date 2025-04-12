@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 <h3>FRONT-END SKILLS⭐ </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=pinia,redux,tailwind,jquery,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pinia,redux,tailwind,jquery,vite)](#)
 
 
 <hr/>
 <h3>BACK-END SKILLS⭐ </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring,mysql,mongodb,maven,java,php,Nestjs)](#)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring,mysql,mongodb,maven,java,php,nestjs)](#)
 
 <hr/>
 
