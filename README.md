@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3>TOOLS⭐ </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,git,github,idea,vscode,jenkins,linux)](https://skillicons.dev)
 
 🔭 I’m currently working as a Web Developer — building awesome digital experiences for real-world clients! I'm actively working with technologies like Next.js, WordPress, and AWS, delivering both frontend and backend solutions that make a difference.
 
