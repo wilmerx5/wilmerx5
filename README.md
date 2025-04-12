@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <hr/>
 <h3>BACK-END SKILLS⭐ </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring,mysql,mongodb,maven,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring,mysql,mongodb,maven,java,php,Nestjs)](#)
 
 <hr/>
 
